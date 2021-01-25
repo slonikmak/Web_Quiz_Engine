@@ -1,0 +1,14 @@
+# Project exclude paths
+/.gradle/
+/Problems/calculator/build/
+/Problems/calculator/out/
+/Problems/calculator/out/production/classes/
+/Problems/calculator/out/test/classes/
+/Problems/Output the list's elements/out/
+/Problems/Output the list's elements/out/production/classes/
+/Problems/Sherlock Holmes and the mystery of anagrams/out/
+/Problems/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Web Quiz Engine/task/build/
+/Web Quiz Engine/task/out/
+/Web Quiz Engine/task/out/production/classes/
+/Web Quiz Engine/task/out/test/classes/
